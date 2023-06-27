@@ -21,6 +21,15 @@ technology (machine learning) and use pragmatic tools (python, MQTT) to realise 
 
 ## Language specific competence
 
+### Go
+
+[MQTT Scraper](https://github.com/tonytw1/mqtt-scraper) demonstrates a goroutine and the use of locks 
+(which seem popular in the Go world) to control concurrent access to a shared resource.
+
+Packaged as a container image to defer conversations about where it actually runs.
+Google Cloud Build for infrequent builds.
+
+
 ### Kotlin
 
 [NominatimAC](https://github.com/tonytw1/nominatim-ac) is an example of a Spring Boot / Kotlin application 
