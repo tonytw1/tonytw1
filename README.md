@@ -21,6 +21,8 @@ technology (machine learning) and use pragmatic tools (python, MQTT) to realise 
 
 ## Language specific competence
 
+
+
 ### Go
 
 [MQTT Scraper](https://github.com/tonytw1/mqtt-scraper) demonstrates a goroutine and the use of locks 
@@ -36,6 +38,9 @@ Google Cloud Build for infrequent builds.
 which has been migrated inflight from Java. The proper documentation of optional values was an important improvement over Java.
 
 This application has ~ 100 million records in its dataset demonstrating knowledge of working with large (won't fit in memory) data streams.
+
+[Whakaoko](https://github.com/tonytw1/whakaoko) is another Kotlin / Spring Boot application with more moving parts and persistence.
+Long-lived run time which has todo real work against flaky third party URLs.
 
 
 ### Java
