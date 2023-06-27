@@ -63,7 +63,9 @@ Scala Futures and WS Client are a good fit for the long-running async HTTP fetch
 I do not feel that Scala 3 is applicable until it's officially supported by Play Framework.
 
 
+## Real world
 
+Unsquashed real world code. Dealing with uncertainty and been a good neighbour in a shared code base.
 
-
-
+- [Google Showcase implementation at the Guardian](https://github.com/guardian/frontend/pull/24038).
+- [Guardian Grid Elasticsearch migration](https://github.com/guardian/grid/pull/2373/commits).
