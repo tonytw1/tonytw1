@@ -1,7 +1,9 @@
-Attempting to show competence and an understanding of how computers work without resorting to white boarding exercises.
-
+Attempting to show competence and an understanding of how computers work without resorting to white boarding exercises. 
 
 ## Personal projects
+
+Non dressage code which solves problems I'm interested in.
+
 
 ### Wellynews 
 
@@ -63,9 +65,22 @@ Scala Futures and WS Client are a good fit for the long-running async HTTP fetch
 I do not feel that Scala 3 is applicable until it's officially supported by Play Framework.
 
 
-## Real world
+## Commercial code
 
 Unsquashed real world code. Dealing with uncertainty and been a good neighbour in a shared code base.
 
 - [Google Showcase implementation at the Guardian](https://github.com/guardian/frontend/pull/24038).
 - [Guardian Grid Elasticsearch migration](https://github.com/guardian/grid/pull/2373/commits).
+
+
+
+## Other
+
+
+### Android
+
+Been able to customise your device using the skills from your day job was a big draw.
+Been able to read and contribute to the front end code base is still a useful collaboration skill.
+
+I developed 2 Android apps with large user bases; [Guardian Lite](https://github.com/tonytw1/guardian-lite) and [London Bus Times Preview](https://github.com/eelpie/countdown-android).
+The latter was received a highly commended award in [Transport for London's 2013 accessible app competition](https://www.tfl.gov.uk/info-for/media/press-releases/2013/december/tfl-announce-winners-of-accessible-app-competition).
