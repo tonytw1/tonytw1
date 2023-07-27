@@ -33,7 +33,8 @@ Trade offs and optimizations around making this run to completion on an obtainab
 ### Go
 
 [MQTT Scraper](https://github.com/tonytw1/mqtt-scraper) demonstrates a goroutine and the use of locks 
-(which seem popular in the Go world) to control concurrent access to a shared resource.
+(which seem popular in the Go world) to control concurrent access to a shared resource. 
+This application is routing metrics; probably a good example of the systems programming glue which Golang excels at.
 
 Packaged as a container image to defer conversations about where it actually runs.
 Google Cloud Build for infrequent builds.
