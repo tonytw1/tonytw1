@@ -1,4 +1,4 @@
-Attempting to show competence and an understanding of how computers work without resorting to white boarding exercises. 
+Attempting to show competence and an understanding of how computers work.
 
 ## Personal projects
 
@@ -23,10 +23,10 @@ technology (machine learning) and use pragmatic tools (python, MQTT) to realise 
 
 ### OpenStreetMap Jigsaw
 
-[OpenStreetMap Jigsaw](https://github.com/tonytw1/osm-jigsaw) is a fairly unhinged exploration of the geometry of the OpenStreetMap extract.
+[OpenStreetMap Jigsaw](https://github.com/tonytw1/osm-jigsaw) is a fairly unhinged exploration of the geometry of the OpenStreetMap dataset.
 Transforms the ~ 5 billion elements of an OSM extract into sorted graph of shapes which it exposes as a JSON API.
-Uses this graph to infer readable place names solely from the arrangement of nested shapes.
-Trade offs and optimizations around making this run to completion on an obtainable computer.
+This graph to used infer readable place names solely from the arrangement of nested shapes.
+Trade-offs and optimizations to makes this run to completion on an obtainable computer.
 
 ## Language specific competence
 
@@ -86,7 +86,7 @@ Unsquashed real world code. Dealing with uncertainty and been a good neighbour i
 ### Android
 
 Been able to customise your device using the skills from your day job was a big draw.
-Been able to read and contribute to the front end code base is still a useful collaboration skill.
+Been able to read and contribute to front end code bases is still a useful collaboration skill.
 
 I developed 2 Android apps with large user bases; [Guardian Lite](https://github.com/tonytw1/guardian-lite) and [London Bus Times Preview](https://github.com/eelpie/countdown-android).
-The latter was received a highly commended award in [Transport for London's 2013 accessible app competition](https://www.tfl.gov.uk/info-for/media/press-releases/2013/december/tfl-announce-winners-of-accessible-app-competition).
+The latter received a highly commended award in [Transport for London's 2013 accessible app competition](https://www.tfl.gov.uk/info-for/media/press-releases/2013/december/tfl-announce-winners-of-accessible-app-competition).
