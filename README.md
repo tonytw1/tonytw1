@@ -4,6 +4,7 @@ Next available for work February 2024
 ## Personal projects
 
 Non dressage code which solves problems I'm interested in.
+
 Attempting to show competence and a vague understanding of how computers work.
 
 
