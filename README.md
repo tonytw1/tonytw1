@@ -53,6 +53,9 @@ This application has ~ 100 million records in its dataset demonstrating knowledg
 [Whakaoko](https://github.com/tonytw1/whakaoko) is another Kotlin / Spring Boot application with more moving parts and persistence.
 Long-lived run time which has todo real work against flaky third party URLs.
 
+I used Kotlin for [Advent of Code 2023](https://github.com/tonytw1/advent2023) and it seemed to produce lower line counts than Java.
+The syntaxes for filtering, mapping and sorting were alot more memorable than their Java equivalents.
+
 
 ### Java
 
@@ -60,8 +63,7 @@ Java is still an important language which is predominant in whiteboard interview
 
 General Java competence is demonstrated in these [Advent of Code 2022](https://github.com/tonytw1/advent2022/tree/main/src) submissions.
 
-[This intuition](https://github.com/tonytw1/advent2022/blob/b2a345ae7c4fa36a59602d9e3a871d3ee14a4546/src/Day15.java#L45)
-for [Day 15](https://adventofcode.com/2022/day/15) part 2 was considered fairly novel by my peers.
+[This intuition](https://github.com/tonytw1/advent2022/blob/b2a345ae7c4fa36a59602d9e3a871d3ee14a4546/src/Day15.java#L45) on line 45 of [Day 15](https://adventofcode.com/2022/day/15) part 2 was considered fairly novel by my peers.
 
 Includes some token [stream usage](https://github.com/tonytw1/advent2022/blob/b2a345ae7c4fa36a59602d9e3a871d3ee14a4546/src/Day15.java#L87). 
 
