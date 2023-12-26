@@ -83,6 +83,7 @@ Unsquashed real world code. Dealing with uncertainty and been a good neighbour i
 - [Google Showcase implementation at the Guardian](https://github.com/guardian/frontend/pull/24038).
 - [Guardian Grid Elasticsearch migration](https://github.com/guardian/grid/pull/2373/commits).
 
+- [Addressing an undocumented feature which was driving inbound support requests](https://github.com/guardian/open-platform-site/pull/88/commits/4c7db919b6b806c62fdec17fb0e6bf89235676a1)
 
 
 ## Other
