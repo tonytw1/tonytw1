@@ -8,6 +8,12 @@ Non dressage code which solves problems I'm interested in.
 Attempting to show competence and a vague understanding of how computers work.
 
 
+### Squirrel Detector
+
+[Squirrel Detector](https://github.com/tonytw1/squirrel-detector) demonstrates a willingness to tackle a new
+technology (machine learning) and use pragmatic tools (python, MQTT) to realise something end to end.
+
+
 ### Wellynews 
 
 [Wellynews](https://github.com/tonytw1/wellynews) aggregates community news from my home town.
@@ -16,12 +22,6 @@ Shows sensible evolution of a long-running project into separate services which 
 develop into standalone applications in their own right.
 
 Demonstrates a commitment to openness and Internet standards by supporting RSS views of all content.
-
-
-### Squirrel Detector
-
-[Squirrel Detector](https://github.com/tonytw1/squirrel-detector) demonstrates a willingness to tackle a new
-technology (machine learning) and use pragmatic tools (python, MQTT) to realise something end to end.
 
 
 ### OpenStreetMap Jigsaw
