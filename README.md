@@ -1,4 +1,4 @@
-Next available for work February 2024
+Next available for work April 2024
 
 
 ## Personal projects
