@@ -5,8 +5,6 @@ Next available for work April 2024
 
 Non dressage code which solves problems I'm interested in.
 
-Attempting to show competence and a vague understanding of how computers work.
-
 
 ### Squirrel Detector
 
@@ -32,6 +30,8 @@ This graph to used infer readable place names solely from the arrangement of nes
 Trade-offs and optimizations to make this run to completion on an obtainable computer.
 
 ## Language specific competence
+
+Attempting to show competence and a vague understanding of how computers work.
 
 ### Go
 
@@ -66,6 +66,7 @@ General Java competence is demonstrated in these [Advent of Code 2022](https://g
 [This intuition](https://github.com/tonytw1/advent2022/blob/b2a345ae7c4fa36a59602d9e3a871d3ee14a4546/src/Day15.java#L45) on line 45 of [Day 15](https://adventofcode.com/2022/day/15) part 2 was considered fairly novel by my peers.
 
 Includes some token [stream usage](https://github.com/tonytw1/advent2022/blob/b2a345ae7c4fa36a59602d9e3a871d3ee14a4546/src/Day15.java#L87). 
+
 
 ### Scala
 
