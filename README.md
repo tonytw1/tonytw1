@@ -42,6 +42,7 @@ This application is routing metrics; probably a good example of the systems prog
 Packaged as a container image to defer conversations about where it actually runs.
 Google Cloud Build for infrequent builds.
 
+Go's most interesting feature is it's build in http server. This completely short circuits the need to agree on an application framework; just use net/http and get building.
 
 ### Kotlin
 
