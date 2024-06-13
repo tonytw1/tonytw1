@@ -87,9 +87,13 @@ Unsquashed real world code. Dealing with uncertainty and been a good neighbour i
 
 - [Addressing an undocumented feature which was driving inbound support requests](https://github.com/guardian/open-platform-site/pull/88/commits/4c7db919b6b806c62fdec17fb0e6bf89235676a1)
 
+Show me a hill you'd die on...
+
+This. Feed test feedback slowly dies if we don't support the IDE now and then:
+[https://github.com/guardian/grid/pull/4286](https://github.com/guardian/grid/pull/4286)
+
 
 ## Other
-
 
 ### Android
 
