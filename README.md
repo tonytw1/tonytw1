@@ -1,6 +1,3 @@
-Next available for work August 2024
-
-
 ## Personal projects
 
 Non dressage code which solves problems I'm interested in.
@@ -35,8 +32,7 @@ Attempting to show competence and a vague understanding of how computers work.
 
 ### Go
 
-[MQTT Scraper](https://github.com/tonytw1/mqtt-scraper) demonstrates a goroutine and the use of locks 
-(which seem popular in the Go world) to control concurrent access to a shared resource. 
+[Gauge controller](https://github.com/tonytw1/gauge-controller) demonstrates some Golang basics struct struts and locks.
 This application is routing metrics; probably a good example of the systems programming glue which Golang excels at.
 
 Packaged as a container image to defer conversations about where it actually runs.
@@ -89,8 +85,9 @@ Unsquashed real world code. Dealing with uncertainty and been a good neighbour i
 
 Show me a hill you'd die on...
 
-This. Feed test feedback slowly dies if we don't support the IDE now and then:
-[https://github.com/guardian/grid/pull/4286](https://github.com/guardian/grid/pull/4286)
+This: [https://github.com/guardian/grid/pull/4286](https://github.com/guardian/grid/pull/4286)
+Fast feedback from tests slowly dies if we don't spend alittle keeping out tools working smoothly.
+
 
 
 ## Other
