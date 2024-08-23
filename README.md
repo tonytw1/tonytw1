@@ -72,8 +72,7 @@ Includes some token [stream usage](https://github.com/tonytw1/advent2022/blob/b2
 [Cards](https://github.com/tonytw1/cards) is an example of how I'd use Scala and Play Framework for a standalone service.
 
 Scala Futures and WS Client are a good fit for the long-running async HTTP fetches this application makes.
-
-I do not feel that Scala 3 is applicable until it's officially supported by Play Framework.
+Been my simplist Play Framework application, this will be the Scala 3 migration canary.
 
 
 ## Commercial code
