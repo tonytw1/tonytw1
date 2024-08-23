@@ -5,8 +5,8 @@ Non dressage code which solves problems I'm interested in.
 
 ### Squirrel Detector
 
-[Squirrel Detector](https://github.com/tonytw1/squirrel-detector) demonstrates a willingness to tackle a new
-technology (machine learning) and use pragmatic tools (python, MQTT) to realise something end to end.
+[Squirrel Detector](https://github.com/tonytw1/squirrel-detector) uses a TensorFlow model and 
+some pragmatic tools (python, MQTT) to monitor the garden wildlife.
 
 
 ### Wellynews 
@@ -23,8 +23,10 @@ Demonstrates a commitment to openness and Internet standards by supporting RSS v
 
 [OpenStreetMap Jigsaw](https://github.com/tonytw1/osm-jigsaw) is a fairly unhinged exploration of the geometry of the OpenStreetMap dataset.
 Transforms the ~ 5 billion elements of an OSM extract into sorted graph of shapes which it exposes as a JSON API.
-This graph is used to infer readable place names solely from the arrangement of nested shapes.
-Trade-offs and optimizations to make this run to completion on an obtainable computer.
+
+This graph is used to infer readable place names from the arrangement of nested shapes.
+Lots of trade-offs and optimizations to make this run to completion on an obtainable computer.
+
 
 ## Language specific competence
 
@@ -32,7 +34,7 @@ Attempting to show competence and a vague understanding of how computers work.
 
 ### Go
 
-[Gauge controller](https://github.com/tonytw1/gauge-controller) demonstrates some Golang basics struct struts and locks.
+[Gauge controller](https://github.com/tonytw1/gauge-controller) demonstrates some Go basics like structs and locks.
 This application is routing metrics; probably a good example of the systems programming glue which Golang excels at.
 
 Packaged as a container image to defer conversations about where it actually runs.
