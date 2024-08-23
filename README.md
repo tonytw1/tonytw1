@@ -5,7 +5,7 @@ Non dressage code which solves problems I'm interested in.
 
 ### Squirrel Detector
 
-[Squirrel Detector](https://github.com/tonytw1/squirrel-detector) uses a TensorFlow model and 
+[Squirrel Detector](https://github.com/tonytw1/squirrel-detector) uses a retrained TensorFlow model and 
 some pragmatic tools (python, MQTT) to monitor the garden wildlife.
 
 
