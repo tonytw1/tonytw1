@@ -50,7 +50,7 @@ which has been migrated inflight from Java. The proper documentation of optional
 This application has ~ 100 million records in its dataset demonstrating knowledge of working with large (won't fit in memory) data streams.
 
 [Whakaoko](https://github.com/tonytw1/whakaoko) is another Kotlin / Spring Boot application with more moving parts and persistence.
-Long-lived run time which has todo real work against flaky third party URLs. Includes some token [Kotlin coroutinues](https://github.com/tonytw1/whakaoko/blob/main/src/main/kotlin/uk/co/eelpieconsulting/feedlistener/rss/RssPoller.kt). 
+Long-lived run time which has todo real work against flaky third party URLs. Includes some token [Kotlin coroutines](https://github.com/tonytw1/whakaoko/blob/main/src/main/kotlin/uk/co/eelpieconsulting/feedlistener/rss/RssPoller.kt). 
 
 I used Kotlin for [Advent of Code 2023](https://github.com/tonytw1/advent2023) and it seemed to produce lower line counts than Java.
 The syntaxes for filtering, mapping and sorting were alot more memorable than their Java equivalents.
