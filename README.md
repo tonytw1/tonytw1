@@ -75,6 +75,11 @@ Scala Futures and WS Client are a good fit for the long-running async HTTP fetch
 Been my simplist Play Framework application, this will be the Scala 3 migration canary.
 
 
+### TypeScript
+
+Fashions change. [Advent of Code 2025](https://github.com/tonytw1/advent2025) in TypeScript.
+
+
 ## Commercial code
 
 Unsquashed real world code. Dealing with uncertainty and been a good neighbour in a shared code base.
