@@ -77,10 +77,10 @@ Been my most simple Play Framework application, this will be the Scala 3 migrati
 
 ### TypeScript
 
-Fashions change so [Advent of Code 2025](https://github.com/tonytw1/advent2025) is in TypeScript.
+Fashions change, so [Advent of Code 2025](https://github.com/tonytw1/advent2025) is in TypeScript.
 
 TypeScript lacks some of the guard rails you'd get in a JVM language but still supports all of the 
-patterns (sets, caching, recursion etc) which could up in the puzzles. [Day 5 part 2](https://github.com/tonytw1/advent2025/blob/main/day5.ts) was quite enjoyable.
+patterns (sets, caching, recursion etc) which come up in these puzzles. [Day 5 part 2](https://github.com/tonytw1/advent2025/blob/main/day5.ts) was quite enjoyable.
 
 
 ## Commercial code
